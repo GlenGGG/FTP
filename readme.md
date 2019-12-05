@@ -19,7 +19,7 @@ You need to have gcc and make in your PATH.
 Clone this repository.
 
 ```
-git clone https://github.com/GlenGGG/VFS.git
+git clone https://github.com/GlenGGG/FTP.git
 cd FTP
 ```
 
