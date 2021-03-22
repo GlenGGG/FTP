@@ -1,6 +1,6 @@
 # FTP
 
-FTP server and client following standards in ***RFC 959***. Support active and passive connection mode.
+FTP server and client following standards in ***RFC 959***. Support active and passive connection mode. Developed for Linux system, not applicable to Windows.
 
 ## Getting Started
 
